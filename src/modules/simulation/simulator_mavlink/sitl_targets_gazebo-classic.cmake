@@ -113,6 +113,8 @@ if(gazebo_FOUND)
 		warehouse
 		windy
 		yosemite
+		maze2
+		mazea
 	)
 
 	# find corresponding airframes
